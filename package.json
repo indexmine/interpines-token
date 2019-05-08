@@ -1,0 +1,21 @@
+{
+  "name": "interpines-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "author": "Lee-jaejin (lightsky340@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^8.1.1",
+    "chai": "^4.2.0",
+    "chai-bignumber": "^3.0.0",
+    "ganache-cli": "^6.4.1",
+    "openzeppelin-solidity": "2.0.0",
+    "truffle": "^5.0.7",
+    "truffle-assertions": "^0.8.0",
+    "truffle-hdwallet-provider": "^1.0.5"
+  }
+}
