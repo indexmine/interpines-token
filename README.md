@@ -1,6 +1,6 @@
 # Fill up params
 
- * contracts/FlyUpToken.sol : token contract allocation balance
+ * contracts/InterpinesToken.sol : token contract allocation balance
  * migrations/2_interpines_token.js : token's name, symbol, decimals
  * truffle-config.js : infuraApiKey, gas, gasPrice, mnemonic
 
